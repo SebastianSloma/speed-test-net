@@ -1,4 +1,7 @@
+# pip install speedtest-cli
+
 import speedtest
+
 
 test = speedtest.Speedtest()
 down = test.download()
